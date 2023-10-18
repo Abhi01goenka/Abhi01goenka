@@ -70,3 +70,6 @@ Feel free to explore my repositories and don't hesitate to reach out.
 <!-- GitHub Streak -->
 ## GitHub Streak
 ![Your GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abhi01goenka&theme=radical)
+
+## Hacktoberfest 2023
+[![An image of @abhi01goenka's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abhi01goenka)](https://holopin.io/@abhi01goenka)
