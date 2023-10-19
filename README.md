@@ -2,25 +2,19 @@
   <img src="https://github.com/Abhi01goenka/Abhi01goenka/blob/main/giphy.gif" alt="Image 1" width="1200"/>
 </p>
 
+![Animated-text-fill-Brave-2023-10](https://github.com/Abhi01goenka/Abhi01goenka/assets/92025482/fe9e3499-820e-4d6f-a993-a457af9c76a0)
 
 
 <div align="center">
-  <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;" />
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Abhishek+Goenka!;" />
 </h1>
 </div>
 
-![Animated-text-fill-Brave-2023-10](https://github.com/Abhi01goenka/Abhi01goenka/assets/92025482/87a958d4-3337-46b7-b472-c7a9806c5e65)
 
-
-
-
-
-  <h3 align="center">A passionate Developer with a deep love for Python, Web and Application Development.</h3>
-  <h3 align="center">Welcome to my GitHub profile!</h3>
-
-  <div align="center">
-    <h2>About Me</h2>
+<div align="center">
+  <h3 align="center">A passionate Developer with a deep love for Python, <br>Web and Application Development.</h3><br><br>
+    
 🎓 Studying Computer Science Engineering at Indian Institute of Information Technology, Lucknow
     
 🌱 Currently exploring Python Development
@@ -29,7 +23,7 @@
     
 🎮 Love Gaming, Listening to songs, Watching movies, Reading books, and Exploring new things...
  
- </div>
+ </div><br><br>
 
 <h2 align="center">Skills and Tools</h2>
 <p align="center">
@@ -46,7 +40,7 @@
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
 </p>
-
+<br><br>
 <h2 align="center">Connect with Me</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/abhishek-goenka-9b0374229/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/></a>
@@ -68,13 +62,7 @@
   <!-- Add more social media icons and links as needed -->
 </p>
 
-<div align="center">
-  <h2>My Contributions</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Abhi01goenka/Abhi01goenka/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
+
 
 <h2 align="center">GitHub Stats</h2>
 <p align="center">
