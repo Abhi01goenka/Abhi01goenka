@@ -1,14 +1,35 @@
+<p align="center">
+  <img src="https://github.com/Abhi01goenka/Abhi01goenka/blob/main/giphy.gif" alt="Image 1" width="1200"/>
+</p>
+
+
+
 <div align="center">
-  <h1>Hi there! 👋 I'm Abhishek Goenka</h1>
-  <p>I'm a passionate Developer with a deep love for Python, Web and Application Development. Welcome to my GitHub profile!</p>
-  
-  <h2>About Me</h2>
-  <p>
-    🎓 Studying Computer Science Engineering at Indian Institute of Information Technology, Lucknow<br>
-    🌱 Currently exploring Python Development<br>
-    💡 Interested in Python, Web Development, Flutter, Competitive Programming, Machine Learning, and Artificial Intelligence<br>
-    🎮 Love Gaming, Listening to songs, Watching movies, Reading books, and Exploring new things...
-  </p>
+  <h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;" />
+</h1>
+</div>
+
+![Animated-text-fill-Brave-2023-10](https://github.com/Abhi01goenka/Abhi01goenka/assets/92025482/87a958d4-3337-46b7-b472-c7a9806c5e65)
+
+
+
+
+
+  <h3 align="center">A passionate Developer with a deep love for Python, Web and Application Development.</h3>
+  <h3 align="center">Welcome to my GitHub profile!</h3>
+
+  <div align="center">
+    <h2>About Me</h2>
+🎓 Studying Computer Science Engineering at Indian Institute of Information Technology, Lucknow
+    
+🌱 Currently exploring Python Development
+    
+💡 Interested in Python, Web Development, Flutter, Competitive Programming, Machine Learning, and Artificial Intelligence
+    
+🎮 Love Gaming, Listening to songs, Watching movies, Reading books, and Exploring new things...
+ 
+ </div>
 
 <h2 align="center">Skills and Tools</h2>
 <p align="center">
@@ -46,6 +67,14 @@
   
   <!-- Add more social media icons and links as needed -->
 </p>
+
+<div align="center">
+  <h2>My Contributions</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Abhi01goenka/Abhi01goenka/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 
 <h2 align="center">GitHub Stats</h2>
 <p align="center">
