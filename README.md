@@ -2,9 +2,6 @@
   <img src="https://github.com/Abhi01goenka/Abhi01goenka/blob/main/giphy.gif" alt="Image 1" width="1200"/>
 </p>
 
-![Animated-text-fill-Brave-2023-10](https://github.com/Abhi01goenka/Abhi01goenka/assets/92025482/fe9e3499-820e-4d6f-a993-a457af9c76a0)
-
-
 <div align="center">
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Abhishek+Goenka!;" />
