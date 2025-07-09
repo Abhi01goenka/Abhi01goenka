@@ -12,11 +12,11 @@
 <div align="center">
   <h3 align="center">A passionate Developer with a deep love for Python, <br>Web and Application Development.</h3><br><br>
     
-🎓 Studied Computer Science Engineering at Indian Institute of Information Technology, Lucknow
+🎓 Former SWE Intern at Cisco '24 '25 | B.Tech Computer Science Graduate from IIIT Lucknow 2025
     
-🌱 Currently exploring Python Development
+🌱 Currently exploring Machine Learning and AI
     
-💡 Interested in Python, Web Development, Flutter, Competitive Programming, Machine Learning, and Artificial Intelligence
+💡 Interested in Java, Python, Web Development, Flutter, Competitive Programming, Machine Learning, and Artificial Intelligence
     
 🎮 Love Gaming, Listening to songs, Watching movies, Reading books, and Exploring new things...
  
