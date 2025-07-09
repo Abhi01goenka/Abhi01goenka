@@ -12,7 +12,7 @@
 <div align="center">
   <h3 align="center">A passionate Developer with a deep love for Python, <br>Web and Application Development.</h3><br><br>
     
-🎓 Studying Computer Science Engineering at Indian Institute of Information Technology, Lucknow
+🎓 Studied Computer Science Engineering at Indian Institute of Information Technology, Lucknow
     
 🌱 Currently exploring Python Development
     
