@@ -10,9 +10,9 @@
 
 
 <div align="center">
-  <h3 align="center">A passionate Developer with a deep love for Python, <br>Web and Application Development.</h3><br><br>
+  <h3 align="center">A passionate Developer with a deep love for Java, Python, <br>Web and Application Development.</h3><br><br>
     
-🎓 Former SWE Intern at Cisco '24 '25 | B.Tech Computer Science Graduate from IIIT Lucknow 2025
+🎓 SWE at Cisco | Former SWE Intern at Cisco '24 '25 | B.Tech Computer Science Graduate from IIIT Lucknow 2025
     
 🌱 Currently exploring Machine Learning and AI
     
