@@ -79,12 +79,12 @@ location: India
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Abhi01goenka&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d26a&icon_color=00d26a&text_color=c9d1d9" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhi01goenka&theme=tokyonight&hide_border=true&background=0D1117&ring=00d26a&fire=00d26a&currStreakLabel=00d26a" alt="GitHub Streak"/>
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Abhi01goenka&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d26a&icon_color=00d26a&text_color=c9d1d9" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-streak-stats-eight.vercel.app/?user=Abhi01goenka&theme=tokyonight&hide_border=true&background=0D1117&ring=00d26a&fire=00d26a&currStreakLabel=00d26a" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhi01goenka&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d26a&text_color=c9d1d9" alt="Top Languages"/>
+  <img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Abhi01goenka&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d26a&text_color=c9d1d9" alt="Top Languages"/>
 </p>
 
 <!-- Activity Graph -->
@@ -120,16 +120,6 @@ location: India
     <img src="https://holopin.me/abhi01goenka" alt="Holopin Badges"/>
   </a>
 </p>
-
----
-
-## 📈 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abhi01goenka/Abhi01goenka/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abhi01goenka/Abhi01goenka/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Abhi01goenka/Abhi01goenka/output/github-contribution-grid-snake.svg">
-</picture>
 
 ---
 
